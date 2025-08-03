@@ -17,7 +17,8 @@ To explore correlations between lifestyle/study factors and student stress level
 - **Academic Pressure & Student Count**
 - **Financial Stress & Student Count**
 
-<img width="1302" height="750" alt="image" src="https://github.com/user-attachments/assets/4a237819-a894-4db5-96ee-04346da6b8eb" />
+<img width="1385" height="788" alt="image" src="https://github.com/user-attachments/assets/c7ffdfbe-6959-4225-9b08-57c44d3bd36a" />
+
 
 
 ## 🔍 Key Insights
