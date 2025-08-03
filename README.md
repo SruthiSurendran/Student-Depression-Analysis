@@ -17,7 +17,8 @@ To explore correlations between lifestyle/study factors and student stress level
 - **Academic Pressure & Student Count**
 - **Financial Stress & Student Count**
 
-![Dashboard Screenshot](Student%20Count%20Analysis.png)
+<img width="1302" height="750" alt="image" src="https://github.com/user-attachments/assets/4a237819-a894-4db5-96ee-04346da6b8eb" />
+
 
 ## 🔍 Key Insights
 - Most students report sleeping 7–8 hours, linked to higher student counts.
