@@ -22,10 +22,10 @@ The final output is an interactive Tableau dashboard that allows users to explor
 ## 📈 Key Insights
 
 -  **Sleep Duration**: Both less than 5 hours and more than 8 hours showed similar student counts (~123–128), suggesting irregular sleep affects mental health.
-- 🔹 **Study Hours**: Mid-range study hours (6–10) had higher student counts, indicating a possible balance point between study load and mental well-being.
-- 🔹 **Academic Pressure**: Level 3 pressure had the highest count (125 students), indicating it as a major stressor.
-- 🔹 **Study Satisfaction**: Satisfaction Level 4 had the most students (116), suggesting higher satisfaction may be protective.
-- 🔹 **Financial Stress**: Student counts were spread relatively evenly across levels, pointing to widespread financial pressure.
+-  **Study Hours**: Mid-range study hours (6–10) had higher student counts, indicating a possible balance point between study load and mental well-being.
+-  **Academic Pressure**: Level 3 pressure had the highest count (125 students), indicating it as a major stressor.
+-  **Study Satisfaction**: Satisfaction Level 4 had the most students (116), suggesting higher satisfaction may be protective.
+-  **Financial Stress**: Student counts were spread relatively evenly across levels, pointing to widespread financial pressure.
 
 ## 📎 Dashboard Preview
 
